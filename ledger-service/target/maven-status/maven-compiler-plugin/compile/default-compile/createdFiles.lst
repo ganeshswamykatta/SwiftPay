@@ -1,0 +1,8 @@
+com\swiftpay\ledger\Application.class
+com\swiftpay\ledger\repository\AccountRepository.class
+com\swiftpay\ledger\entity\Account.class
+com\swiftpay\ledger\dto\PaymentStatusEvent.class
+com\swiftpay\ledger\service\LedgerService.class
+com\swiftpay\ledger\config\KafkaConfig.class
+com\swiftpay\ledger\consumer\PaymentConsumer.class
+com\swiftpay\ledger\dto\PaymentEvent.class
